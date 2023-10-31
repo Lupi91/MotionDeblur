@@ -1,7 +1,9 @@
 # MotionDeblur
 Example usage of wiener deconvolution to restore motion-blurred images.<br>
+<br>
 Original code: https://github.com/opencv/opencv/blob/5199850039ad23f1f0e6cccea5061a9fea5efca6/samples/python/deconvolution.py
-Added a trackbar to modify the kernel size
+Changes: Added a trackbar to modify the kernel size
+<br>
 
 **Requirements**<br>
 - cv2
