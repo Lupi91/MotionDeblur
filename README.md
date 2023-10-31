@@ -6,9 +6,9 @@ Example usage of wiener deconvolution to restore motion-blurred images.
 - numpy
 
 **Usage**<br>
-'''
+```
 python main.py <path_to_image>
-'''
+```
 
 ## Restoring motion-blurred license plates<br>
 ![](/Demo.png?raw=true)
