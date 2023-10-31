@@ -1,15 +1,15 @@
 # MotionDeblur
-Example usage of wiener deconvolution to restore license plates in motion-blurred images.
+Example usage of wiener deconvolution to restore motion-blurred images.
 
-**Requirements**
+**Requirements**<br>
 - cv2
 - numpy
 
-**Usage**
+**Usage**<br>
 python main.py <path_to_image>
 
-**Demo**
-<img>
+## Restoring motion-blurred license plates<br>
+demo_image
 
 
 ## References:
